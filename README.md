@@ -18,7 +18,7 @@ Print part_duct_alt.stl either with the fan mount face down or up. You save ~3mm
 
 A generic base lock is included. This should be compatible with other Hero Me mounts.
 
-Step files are included if you need to modify anything.
+Step files are included.
 
 ---
 
