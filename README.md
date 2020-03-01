@@ -19,10 +19,10 @@ part_duct_alt.stl either with the fan mount face down or up. You save ~3mm off t
 Step files are included if you need to modify anything.
 
 Exploded View
-![view 1](view_1.png)
+![view 1](https://raw.githubusercontent.com/opcow/RS_Cooler_Remix/master/view_1.png)
 
 Normal View
-![view 2](view_2.png)
+![view 2](https://raw.githubusercontent.com/opcow/RS_Cooler_Remix/master/view_2.png)
 
 With Alternative Part Duct
-![view 3](view_3.png)
+![view 3](https://raw.githubusercontent.com/opcow/RS_Cooler_Remix/master/view_3.png)
