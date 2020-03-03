@@ -8,7 +8,7 @@ This is a remix of the Red Squirrel Compact Fan Housing for Creality Ender 3 3D 
 
 ### Changes From the Original
 
-This remix splits the fan mount into 2 parts. The only complaint I have with the original is that access to the nozzle is difficult. If you use a silicone sock it can be hard to remove/install and holding the heater block without a special tool of some sort will probably require removal of the cooler in order to change the nozzle. With this split design you only need to remove the tool fan to remover the part cooling duct and gain access to the nozzle and heater block.
+This remix splits the ducts into separate parts. The only issue I have with the original is that access to the nozzle is difficult. If you use a silicone sock it can be hard to remove/install and holding the heater block without a special tool of some sort will probably require removal of the cooler in order to change the nozzle. With this split design, you only need to remove the tool fan to remove the part cooling duct and gain access to the nozzle and heater block.
 
 I modified the fan mounting holes to accept M3 screws and increased the thickness of the 5015 mount point.
 
@@ -18,7 +18,7 @@ Print part_duct_alt.stl either with the fan mount face down or up. You save ~3mm
 
 A generic base lock is included. This should be compatible with other Hero Me mounts.
 
-Step files are included.
+Step files are included if you need to modify anything.
 
 ---
 
