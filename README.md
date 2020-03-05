@@ -10,7 +10,7 @@ This is a remix of the Red Squirrel Compact Fan Housing for Creality Ender 3 3D 
 
 This remix splits the ducts into separate parts. The only issue I have with the original is that access to the nozzle is difficult. If you use a silicone sock it can be hard to remove/install and holding the heater block without a special tool of some sort will probably require removal of the cooler in order to change the nozzle. With this split design, you only need to remove the tool fan to remove the part cooling duct and gain access to the nozzle and heater block.
 
-I modified the fan mounting holes to accept M3 screws and increased the thickness of the 5015 mount point.
+I modified the fan mounting holes to accept M4 screws and increased the thickness of the 5015 mount point.
 
 part_duct.stl can be printed with minimal supports. If you set the overhang angle to 45 degrees and print it with the fan mount face down then you would only get supports under the 5015 fan opening.
 
